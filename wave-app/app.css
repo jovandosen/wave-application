@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+}
+
+#app {
+    margin: 100px auto;
+    width: 500px;
+    height: auto;
+}
+
+.box {
+    width: 30px;
+    /* height: 5px; */
+    margin-left: 5px;
+    background-color: sienna;
+    float: left;
+}
